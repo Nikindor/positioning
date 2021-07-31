@@ -196,3 +196,121 @@ header ul li {
     color: #B6B6B6;
     margin-top: 20px;
 }
+.second-info-block {
+    margin: 500px auto 0 auto;
+    width: 1104px;
+    height: 221px;
+}
+.second-info-block-1 {
+    width: 113px;
+    height: 35px;   
+    font-family: 'Kaushan Script', cursive;
+    font-size: 24px;
+    line-height: 35px;
+    color: #333333;
+    margin: 0 auto 20px auto;
+}
+.second-info-block-2 {
+    width: 213px;
+    height: 37px;
+    font-family: 'Montserrat', sans-serif;
+    color: #333333;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 37px;
+    font-variant: small-caps;
+    margin: auto auto 36px auto;
+}
+.second-info-block-3 {
+    width: 60px;
+    height: 4px;
+    margin: 0 auto 45px auto;
+    background: #F38181;
+}
+.second-info-block-4 {
+    width: 1104px;
+    height: 47px;
+    font-family: Roboto;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #B6B6B6;
+}
+.men {
+    width: 1210px;
+    height: 556px;  
+    margin: 17px auto 0 auto;
+}
+.first-men {
+    width: 390px;
+    height: 556px;
+}
+.first-man-name {
+    width: 89px;
+    eight: 17px;
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    font-variant: small-caps;
+    color: #333333;
+    margin: 30px auto 0 auto;
+}
+.first-man-job {
+    width: 101px;
+    height: 18px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #B6B6B6;
+    margin: 11px auto 0 auto;
+}
+.second-man-name {
+    width: 137px;
+    height: 17px;
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    font-variant: small-caps;
+    color: #333333;
+    margin: 30px auto 0 auto;
+}
+.second-man-job {
+    width: 133px;
+    height: 18px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #B6B6B6;
+    margin: 11px auto 0 auto;
+}
+.third-man-name {
+    width: 92px;
+    height: 17px;
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    font-variant: small-caps;
+    color: #333333;
+    margin: 30px auto 0 auto;
+}
+.third-man-job {
+    width: 64px;
+    height: 18px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #B6B6B6;
+    margin: 11px auto 0 auto;
+}
