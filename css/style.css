@@ -269,7 +269,7 @@ header ul li {
     margin: 11px auto 0 auto;
 }
 .second-man-name {
-    width: 137px;
+    width: 145px;
     height: 17px;
     font-family: Montserrat;
     font-size: 14px;
@@ -292,7 +292,7 @@ header ul li {
     margin: 11px auto 0 auto;
 }
 .third-man-name {
-    width: 92px;
+    width: 97px;
     height: 17px;
     font-family: Montserrat;
     font-size: 14px;
@@ -334,6 +334,15 @@ footer {
     line-height: 17px;
     text-align: center;
     color: #333333;
+}
+.footer-text-1 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #F38181;
 }
 .footer-button {
     margin-top: 9px;
