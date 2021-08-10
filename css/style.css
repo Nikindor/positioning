@@ -9,7 +9,7 @@ header {
 }
 header div {
     float: left;
-    font-family: 'Montserrat', sans-serif;
+    font-family: Montserrat;
     font-weight: 700;
     font-size: 30px;
     line-height: 37px;
@@ -28,7 +28,7 @@ header ul li {
     color: #F38181;
     font-size: 14px;
     line-height: 17px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: Montserrat;
     font-weight: 400px;
 }
 .par-menu {
@@ -42,7 +42,7 @@ header ul li {
     width: 50px;
     height: 3px;
     background: #F38181;
-    margin-left: 600px;
+    margin-left: 567px;
     margin-top: 10px;
 }
 .info-block {
@@ -52,7 +52,7 @@ header ul li {
 .info-block-1 {
     width: 133px;
     height: 35px;   
-    font-family: 'Kaushan Script', cursive;
+    font-family: Kaushan Script;
     font-size: 24px;
     line-height: 35px;
     color: #333333;
@@ -61,7 +61,7 @@ header ul li {
 .info-block-2 {
     width: 252px;
     height: 37px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: Montserrat;
     color: #333333;
     font-weight: 700;
     font-size: 24px;
@@ -233,7 +233,7 @@ header ul li {
 .second-info-block-1 {
     width: 113px;
     height: 35px;   
-    font-family: 'Kaushan Script', cursive;
+    font-family: Kaushan Script;
     font-size: 24px;
     line-height: 35px;
     color: #333333;
@@ -242,7 +242,7 @@ header ul li {
 .second-info-block-2 {
     width: 213px;
     height: 37px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: Montserrat;
     color: #333333;
     font-weight: 700;
     font-size: 24px;
