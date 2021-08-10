@@ -10,6 +10,7 @@ header {
 header div {
     float: left;
     font-family: 'Montserrat', sans-serif;
+    font-weight: 700px;
     font-size: 30px;
     line-height: 37px;
     color: #95E1D3;
