@@ -10,7 +10,7 @@ header {
 header div {
     float: left;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 700px;
+    font-weight: 700;
     font-size: 30px;
     line-height: 37px;
     color: #95E1D3;
@@ -63,7 +63,7 @@ header ul li {
     height: 37px;
     font-family: 'Montserrat', sans-serif;
     color: #333333;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 24px;
     line-height: 37px;
     font-variant: small-caps;
@@ -99,6 +99,7 @@ header ul li {
 }
 .item-1 h2 {
     font-family: Montserrat;
+    font-weight: 400;
     font-size: 14px;
     line-height: 17px;
     color: #333333;
@@ -120,6 +121,7 @@ header ul li {
 }
 .item-2 h2 {
     font-family: Montserrat;
+    font-weight: 400;
     font-size: 14px;
     line-height: 17px;
     color: #333333;
@@ -141,6 +143,7 @@ header ul li {
 }
 .item-3 h2 {
     font-family: Montserrat;
+    font-weight: 400;
     font-size: 14px;
     line-height: 17px;
     color: #333333;
@@ -163,6 +166,7 @@ header ul li {
 }
 .item-4 h2 {
     font-family: Montserrat;
+    font-weight: 400;
     font-size: 14px;
     line-height: 17px;
     color: #333333;
@@ -185,6 +189,7 @@ header ul li {
 }
 .item-5 h2 {
     font-family: Montserrat;
+    font-weight: 400;
     font-size: 14px;
     line-height: 17px;
     color: #333333;
@@ -207,6 +212,7 @@ header ul li {
 }
 .item-6 h2 {
     font-family: Montserrat;
+    font-weight: 400;
     font-size: 14px;
     line-height: 17px;
     color: #333333;
@@ -238,7 +244,7 @@ header ul li {
     height: 37px;
     font-family: 'Montserrat', sans-serif;
     color: #333333;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 24px;
     line-height: 37px;
     font-variant: small-caps;
@@ -276,6 +282,7 @@ header ul li {
     width: 89px;
     height: 17px;
     font-family: Montserrat;
+    font-weight: 400;
     font-size: 14px;
     line-height: 17px;
     text-align: center;
@@ -350,6 +357,7 @@ header ul li {
     width: 145px;
     height: 17px;
     font-family: Montserrat;
+    font-weight: 400;
     font-size: 14px;
     line-height: 17px;
     text-align: center;
@@ -424,6 +432,7 @@ header ul li {
     width: 97px;
     height: 17px;
     font-family: Montserrat;
+    font-weight: 400;
     font-size: 14px;
     line-height: 17px;
     text-align: center;
@@ -505,8 +514,8 @@ footer {
     width: 308px;
     height: 17px;
     font-family: Montserrat;
+    font-weight: 400;
     font-style: normal;
-    font-weight: normal;
     font-size: 14px;
     line-height: 17px;
     text-align: center;
@@ -525,7 +534,7 @@ footer {
     border: none;
     font-family: Montserrat;
     font-style: normal;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 14px;
     line-height: 17px;
     text-align: center;
